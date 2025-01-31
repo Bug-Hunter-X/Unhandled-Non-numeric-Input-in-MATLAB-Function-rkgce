@@ -1,0 +1,2 @@
+# Unhandled Non-numeric Input in MATLAB Function
+This repository contains a MATLAB function with a potential bug related to handling non-numeric inputs. The original function lacks error checking and may produce unexpected outputs or errors when supplied with non-numeric data.  The solution demonstrates proper input validation and error handling to improve the function's robustness.
